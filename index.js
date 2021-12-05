@@ -1,11 +1,10 @@
-const Converter = require('./src/utils/Converter.js');
-const convert = new Converter();
+const { toRoman, toDecimal } = require('./src/core/converter.js')
 
-module.export = {
+module.exports = {
 
     // fonctions activées
-    toRoman: convert.toRoman,
-    toDecimal: convert.toDecimal
+    toRoman,
+    toDecimal
 
     // fonctions désactivées
 

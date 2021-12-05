@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/npm/v/decimal-number-converter">
 </p>
 
-> #### Realised while a technical code interview for [AXOPEN](https://www.axopen.com/)
+> #### Realised during a technical code interview for [AXOPEN](https://www.axopen.com/)
 
 #### Table of content:
 
